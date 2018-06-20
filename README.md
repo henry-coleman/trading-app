@@ -1,9 +1,9 @@
 # trading-app
 A Project by Henry Coleman and Danny Hoke: The Tinder of junk trading
 
-GENERAL RUNDOWN...
+## GENERAL RUNDOWN...
 
-Basic Features (to make it work):
+### Basic Features (to make it work):
   User creation
   
   Item posting
@@ -15,7 +15,7 @@ Basic Features (to make it work):
   Browsing (similar to Tinder, but where profiles are for items posted rather than people)
   
   
-Advanced Features (to make it sexy later):
+### Advanced Features (to make it sexy later):
   Automatic Price Lookup
   
   Location Detection
@@ -23,4 +23,4 @@ Advanced Features (to make it sexy later):
   Meeting Place Suggestions
   
   
-SPECIFIC PROBLEMS...
+## SPECIFIC PROBLEMS...
