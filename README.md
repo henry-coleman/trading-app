@@ -4,15 +4,20 @@ A Project by Henry Coleman and Danny Hoke: The Tinder of junk trading
 ## GENERAL RUNDOWN...
 
 ### Basic Features (to make it work):
- * User creation
+  1. Item posting
+    *Upload image
+    *Title
+    *Description
+    *Price range
+        
   
- * Item posting
+  2. Account creation
   
- * User profiles (including location, name, star rating/feedback, and inventory)
+  3. User profiles (including location, name, star rating/feedback, and inventory)
   
- * Item Profiles (include approximate price range and item specs)
+  4. Item Profiles (include approximate price range and item specs)
   
- * Browsing (similar to Tinder, but where profiles are for items posted rather than people)
+  5. Browsing (similar to Tinder, but where profiles are for items posted rather than people)
   
   
 ### Advanced Features (to make it sexy later):
