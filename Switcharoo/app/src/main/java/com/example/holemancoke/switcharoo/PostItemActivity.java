@@ -3,7 +3,7 @@ package com.example.holemancoke.switcharoo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class PostItem extends AppCompatActivity {
+public class PostItemActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
