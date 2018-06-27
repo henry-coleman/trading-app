@@ -28,4 +28,23 @@ A Project by Henry Coleman and Danny Hoke: The Tinder of junk trading
  * Meeting Place Suggestions
   
   
-## SPECIFIC PROBLEMS...
+## Activities...
+
+  *Create an Account
+
+  *Upload an Item
+  
+  *Browse Items
+    *Item Details
+    
+  *Chat Window
+  
+  *Interact with other user
+    *Chat
+    *View Inventory
+    *Trade Request
+    
+  *My Profile
+    *My Inventory
+    *Account Info
+   
