@@ -5,10 +5,10 @@ A Project by Henry Coleman and Danny Hoke: The Tinder of junk trading
 
 ### Basic Features (to make it work):
   1. Item posting
-    * Upload image TEST
-    * Title
-    * Description
-    * Price range
+     * Upload image
+     * Title
+     * Description
+     * Price range
         
   
   2. Account creation
