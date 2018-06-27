@@ -24,32 +24,27 @@ A Project by Henry Coleman and Danny Hoke: The Tinder of junk trading
  * Automatic Price Lookup
   
  * Location Detection
-  
- * Meeting Place Suggestions
+    * Meeting Place Suggestions
   
   
 ## Activities...
 
   * Create an Account
 
+  * My Profile
+    * My Inventory
+    * Account Info
 
-  * Upload an Item
-  
-  
-  * Chat Window
-    
+  * Upload an Item   
   
   * Browse Items
     * Item Details
-    
 
   * Interact with other user
     * Chat
     * View Inventory
     * Trade Request
+     
     
     
-  * My Profile
-    * My Inventory
-    * Account Info
    
