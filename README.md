@@ -32,17 +32,22 @@ A Project by Henry Coleman and Danny Hoke: The Tinder of junk trading
 
   * Create an Account
 
+
   * Upload an Item
+  
+  
+  * Chat Window
+    
   
   * Browse Items
     * Item Details
     
-  * Chat Window
-  
+
   * Interact with other user
     * Chat
     * View Inventory
     * Trade Request
+    
     
   * My Profile
     * My Inventory
