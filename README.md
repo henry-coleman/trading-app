@@ -5,10 +5,10 @@ A Project by Henry Coleman and Danny Hoke: The Tinder of junk trading
 
 ### Basic Features (to make it work):
   1. Item posting
-    *Upload image TEST
-    *Title
-    *Description
-    *Price range
+    * Upload image TEST
+    * Title
+    * Description
+    * Price range
         
   
   2. Account creation
@@ -30,21 +30,21 @@ A Project by Henry Coleman and Danny Hoke: The Tinder of junk trading
   
 ## Activities...
 
-  *Create an Account
+  * Create an Account
 
-  *Upload an Item
+  * Upload an Item
   
-  *Browse Items
-    *Item Details
+  * Browse Items
+    * Item Details
     
-  *Chat Window
+  * Chat Window
   
-  *Interact with other user
-    *Chat
-    *View Inventory
-    *Trade Request
+  * Interact with other user
+    * Chat
+    * View Inventory
+    * Trade Request
     
-  *My Profile
-    *My Inventory
-    *Account Info
+  * My Profile
+    * My Inventory
+    * Account Info
    
