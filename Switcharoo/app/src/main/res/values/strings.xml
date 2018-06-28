@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Switcharoo</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_monetary_value">Monetary Value</string>
+    <string name="hint_add_picture">Add a Picture</string>
+    <string name="heading_post_item">Post an Item</string>
 </resources>
